@@ -18,6 +18,7 @@ To run the unit tests for this project, follow these steps:
 2. Install project dependencies by running the following command in your terminal:
   'npm install <dev_dependencies> --save-dev '
 3. Once the dependencies are installed, you can run the unit tests using the following command:
+  'npm test'
 
 ## Installation
 
@@ -28,6 +29,11 @@ To run the unit tests for this project, follow these steps:
 * Install angular cli [Ref](https://angular.io/cli)
 * `npm install` in this repository 
 
-## Development server
+## Development server:
 
 Run `ng serve` for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+
+## Deployment :
+This website has been deployed using Firebase and is accessible via the following URL: https://fyle-frontend-challenge-f7c7f.web.app/.
+
+Feel free to click the link to visit the deployed site.
