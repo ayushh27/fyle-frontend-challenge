@@ -9,6 +9,15 @@ It is an Angular single-page application (SPA) that allows users to input a GitH
 - User-friendly interface for entering GitHub usernames.
 - Real-time display of public repositories for the specified user.
 
+## Running Unit Tests
+
+To run the unit tests for this project, follow these steps:
+
+1. Make sure you have Node.js and npm installed on your system.
+
+2. Install project dependencies by running the following command in your terminal:
+  'npm install <dev_dependencies> --save-dev '
+3. Once the dependencies are installed, you can run the unit tests using the following command:
 
 ## Installation
 
